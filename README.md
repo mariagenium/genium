@@ -10,7 +10,7 @@ Aprendiendo a usar github
 <h1>Aprendiendo a usar GitHub<h1>
 
 <h4>By:</h4>
-  <img src="http://genium.co/gif_genium.gif">
+  <img src="http://genium.co/gif_genium.gif" height="180">
   
 </body>
 </html>
