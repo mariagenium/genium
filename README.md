@@ -8,5 +8,9 @@ Aprendiendo a usar github
 
 <body>
 <h1>Aprendiendo a usar GitHub<h1>
+
+<h4>By:</h4>
+  <img src="http://genium.co/gif_genium.gif">
+  
 </body>
 </html>
